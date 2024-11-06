@@ -1,0 +1,65 @@
+*{
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.issue-item{
+    width : 90%;
+    margin:5px;
+    margin-left : 5%;
+    background-color: rgba(195, 223, 255, 0.822);
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-size: large;
+}
+
+.roboto-slab-medium{
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.issue-card-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    background-color: white;
+}
+
+
+.issue-header-1{
+    color :rgb(38, 34, 248);
+    font-size: large;
+    margin-bottom: -2px;
+} 
+
+.issue-card-para-1{
+    margin-top: 10px;
+    width : auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(195, 223, 255, 0.822);
+    border-radius: 10px;
+    border: rgba(125, 125, 248, 0.692) 3px solid;
+    color : rgb(38, 34, 248);
+    height: 50px;
+    padding: 5px;
+    border-style: outset;
+}
+
+.issue-card-para-2{
+    display: flex;
+    align-items: center;
+    margin-top: 17px;
+    color : rgb(5, 167, 19);
+    margin-left : 10px;
+}
+
+.issue-card-input{
+    width: 100%;
+    text-align: center;
+    height: 40px;
+}

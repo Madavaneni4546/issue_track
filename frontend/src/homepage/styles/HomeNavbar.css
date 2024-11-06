@@ -1,0 +1,20 @@
+
+
+/* Navbar */
+
+.home-navbar{
+  background-color: rgb(142, 171, 244, 0.8);
+  color : blue;
+}
+
+.nav-link{
+  color: rgb(23, 23, 222);
+  font-size: large;
+}
+.nav-links{
+  margin-left : 20%;
+}
+
+.nav-link{
+  margin : 0 10px
+}

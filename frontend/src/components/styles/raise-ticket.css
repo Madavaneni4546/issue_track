@@ -1,0 +1,8 @@
+.raise-ticket-form{
+  width : 80%;
+  margin:3% 10%;
+  /* border : (22, 115, 244); */
+  background-color: rgb(190, 215, 246);
+  padding : 10px;
+  border-radius: 10px;
+}

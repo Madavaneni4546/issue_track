@@ -1,0 +1,33 @@
+/* homeAboutUs.css */
+.about-us{
+  margin: 5%;
+  margin-left : 8%;
+  width: 90%;
+}
+
+.left-side{
+  padding-top : 7%; 
+  /* height: 100%; */
+  /* text-align: center; */
+  width: 45%;
+}
+
+.heading1{
+  margin-bottom: 30px;
+  line-height: 10px;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+  text-underline-offset: 10px; 
+}
+
+.right-sdie{
+  width: 45%;
+}
+
+.home-image1{
+  height : 75%;
+  width: 70%;
+  /* border : 3px solid black */
+  box-shadow: 5px 6px 10px 1px black;
+  border-radius : 10px;
+}
